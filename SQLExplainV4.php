@@ -1,7 +1,7 @@
 <?php
 /**
  * SQL Explain Plan Analyzer & Comparator (Single File)
- * DB: Oracle XE (sqler/sqler)
+ * DB: Oracle XE (sqler/xxxx)
  */
 
 // 1. DB 연결
