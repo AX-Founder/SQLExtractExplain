@@ -8,7 +8,7 @@ SQL Explain Extract, Compare
 
 - DB 는 ORACLE, 
 - 접속 URL 은 LOCALHOST, 포트 : 1521
-- 접속 사용자는 sqler , 패스워드도 xxxx
+- 접속 사용자는 sqler , 패스워드는 xxxx
 - SERVICE_NAME 은 XE
 - 아래 테이블 구조를 바탕으로 조회 페이지를 제작
 
